@@ -58,15 +58,14 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaweriyaMahin&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JaweriyaMahin&show_icons=true&theme=default"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaweriyaMahin&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=JaweriyaMahin&theme=default"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaMahin&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaweriyaMahin&layout=compact&theme=default"/>
 
 </p>
 
----
 
 # 📈 Contribution Graph
 
