@@ -34,7 +34,7 @@
 # 🛠 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,ci/cd,docker,kubernetes,terraform,ansible,git,github,python,vscode," />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,python,vscode," />
 </p>
 
 ---
