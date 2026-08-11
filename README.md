@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaweriya Mahin</h1>
 
-<h3 align="center">🚀 Aspiring DevOps Engineer | AWS | Linux | Cloud | Automation</h3>
+<h3 align="center">🚀 Aspiring IT DEVELOPER | AWS | Linux | Cloud | </h3>
 
 <p align="center">
 🚀 BUILDING SKILLS . CREATING PROJECTS . GROWING EVERY DAY 
