@@ -66,12 +66,15 @@
 
 # 📂 Featured DevOps Projects
 
-- ☁️ AWS Static Website Hosting
+- ☁️ AWS  s3 Static Website Hosting
 - 🚀 EC2 Apache Deployment
 - 🐍 python project
 - 📊 CloudWatch Monitoring
 - ⚡ EventBridge → SNS Project
-  
+- 😶‍🌫️ AWS Services hands on practice 
+- 🙌 clap automation python
+- 
+- 
 
 ---
 
