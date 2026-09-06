@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&theme=midnight-purple"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&theme=midnight-blue"/>
 
 </p>
 
