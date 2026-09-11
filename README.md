@@ -55,10 +55,10 @@
 ---
 
 # 📈 Contribution Graph
+<h2 align="center">📊 GitHub Contribution Graph</h2>
+
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&theme=react-dark"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 # 📂 Featured DevOps Projects
