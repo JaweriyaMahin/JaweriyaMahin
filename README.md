@@ -54,16 +54,18 @@
 
 ---
 
-# 📈 Contribution Graph
-<h2 align="center">📊 GitHub Contribution Graph</h2>
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&hide_border=true" alt="GitHub Contribution Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaweriyaMahin&hide_border=true"
+    alt="JaweriyaMahin GitHub Contribution Graph"
+  />
 </p>
 
 # 📂 Featured DevOps Projects
 
-- ☁️ AWS  s3 Static Website Hosting
+- s3 Static Website Hosting
 - 🚀 EC2 Apache Deployment
 - 🐍 python project
 - 📊 CloudWatch Monitoring
