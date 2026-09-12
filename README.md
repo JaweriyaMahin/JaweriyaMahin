@@ -34,7 +34,7 @@
 # 🛠 Skills & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,python,vscode," />
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,python,vscode" />
 </p>
 
 ---
@@ -72,8 +72,8 @@
 - ⚡ EventBridge → SNS Project
 - 😶‍🌫️ AWS Services hands on practice 
 - 🙌 clap automation python
-- 
-- 
+  
+  
 
 ---
 
@@ -95,4 +95,4 @@
 
 <p align="center">
 ✨ Learn • Build • Improve • Repeat ✨
-</p
+</p>
